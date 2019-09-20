@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: https://inna.weinjoy.net/sitemap.xml
